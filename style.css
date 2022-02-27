@@ -1,0 +1,25 @@
+body{
+text-align:center;    
+}
+#Apps{
+background-color: crimson;
+font-family: sans-serif;
+font-size: 30px;  
+}
+#Games{
+background-color: cadetblue;
+font-family:sans-serif;
+font-size: 30px;  
+}
+#Chatbot{
+background-color:darkorange;
+font-family: sans-serif;
+font-size:30px;     
+}
+img{
+transition: transform .2s;
+    
+}
+img:hover{
+transform: scale(0.9);
+}
